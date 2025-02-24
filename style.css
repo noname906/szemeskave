@@ -1,5 +1,7 @@
-main{
-  background-color: #A68A64;
+main, section, footer{
+  color: white;
+  margin: 15px;
+  margin-top: 0px;
 }
 body {
   background-image: url('./kep/wallpaper.jpg'); /* Kép beállítása */
@@ -7,10 +9,21 @@ body {
   background-position: center; /* Középre igazítás */
   background-attachment: fixed; /* Fix háttérkép */
 }
-
+#cim{
+  text-align: center;
+}
+.box {
+  background: rgba(0, 0, 0, 0.6); /* Fekete, de áttetsző */
+  color: white;
+  padding: 30px;
+  margin: 150px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  max-width: 1000px;
+  height: 350px;
+}
 .navbar {
   background-color: #7f4f24;
-    
 }
 .navbar-nav{
   font-weight: bold;
@@ -37,4 +50,21 @@ body {
 .card:hover {
   transform: scale(1.05); /* Kártya kinagyítása hover esetén */
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Erősebb árnyék hoverre */
+}
+
+.buttons {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.btn.secondary {
+  background: transparent;
+  border: 1px solid white;
+  color: white;
+}
+
+.btn.secondary:hover {
+  background: white;
+  color: black;
 }
