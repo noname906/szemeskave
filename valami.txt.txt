@@ -1,0 +1,31 @@
+Cím:
+
+A projekt neve: "Szemes Kávé Weboldal Bemutató"
+Bevezető:
+
+Rövid bemutató a weboldal céljáról (pl. prémium kávé, kávészeretők számára készült, stb.)
+Piaci igény és célcsoport
+Weboldal Funkciói:
+
+Kávétermékek bemutatása (saját kávékeverékek, kávégép ajánlások, stb.)
+Online vásárlás, kosár és fizetési lehetőségek
+Kávéval kapcsolatos blog, tippek és információk
+Vásárlói vélemények és értékelések
+Kapcsolatfelvételi lehetőségek, ügyfélszolgálat
+Design és Felhasználói Élmény:
+
+Weboldal dizájn (színek, elrendezés, könnyű navigáció)
+Reszponzív dizájn (mobilbarát)
+Felhasználóbarát felület
+SEO és Marketing:
+
+Hogyan segíti a weboldal a kávé márkájának online láthatóságát
+SEO optimalizálás (keresőbarát tartalom, kulcsszavak)
+Közösségi média integráció (Instagram, Facebook, stb.)
+Jövőbeli Fejlesztések és Bővítések:
+
+Tervek a weboldal jövőbeli bővítésére (pl. új termékek, új funkciók)
+Összegzés:
+
+A projekt összefoglalása
+Előnyök és jövőbeli kilátások
